@@ -1,3 +1,8 @@
+# NAMA      : I GEDE YOGA SETIAWAN
+# NIM       : 231011401028
+# KELAS     : 05TPLE016
+
+
 print(f'=' * 60)
 print('==== LANGKAH 2 : Collection ====')
 print(f'=' * 60)

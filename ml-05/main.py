@@ -1,3 +1,7 @@
+# NAMA      : I GEDE YOGA SETIAWAN
+# NIM       : 231011401028
+# KELAS     : 05TPLE016
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
